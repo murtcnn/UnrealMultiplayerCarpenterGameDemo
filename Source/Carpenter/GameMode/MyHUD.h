@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "WorkshopUI.h"
+#include "Carpenter/UI/WorkshopUI.h"
 #include "GameFramework/HUD.h"
 #include "MyHUD.generated.h"
 

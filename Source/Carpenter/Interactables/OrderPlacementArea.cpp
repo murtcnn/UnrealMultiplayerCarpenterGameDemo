@@ -1,12 +1,12 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "Carpenter/Public/OrderPlacementArea.h"
+#include "Carpenter/Interactables/OrderPlacementArea.h"
 
-#include "Carpenter/Furniture.h"
-#include "Carpenter/MyGameState.h"
-#include "Carpenter/MyHUD.h"
-#include "Carpenter/MyPlayerController.h"
+#include "Carpenter/Interactables/Furniture.h"
+#include "Carpenter/GameMode/MyGameState.h"
+#include "Carpenter/GameMode/MyHUD.h"
+#include "Carpenter//GameMode/MyPlayerController.h"
 #include "Components/SphereComponent.h"
 
 // Sets default values

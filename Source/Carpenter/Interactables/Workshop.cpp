@@ -3,10 +3,10 @@
 
 #include "Workshop.h"
 
-#include "CarpenterCharacter.h"
+#include "Carpenter/CarpenterCharacter.h"
 #include "Furniture.h"
-#include "MyGameState.h"
-#include "MyHUD.h"
+#include "Carpenter/GameMode/MyGameState.h"
+#include "Carpenter/GameMode/MyHUD.h"
 #include "Components/SphereComponent.h"
 #include "Net/UnrealNetwork.h"
 

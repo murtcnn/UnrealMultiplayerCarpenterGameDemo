@@ -3,7 +3,7 @@
 
 #include "WorkshopUI.h"
 
-#include "MyGameState.h"
+#include "Carpenter/GameMode/MyGameState.h"
 #include "Components/Button.h"
 #include "Components/ProgressBar.h"
 

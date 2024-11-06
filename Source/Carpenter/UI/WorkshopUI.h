@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "MyGameState.h"
+#include "Carpenter/GameMode/MyGameState.h"
 #include "Blueprint/UserWidget.h"
 #include "WorkshopUI.generated.h"
 

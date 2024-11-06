@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "Interaction_Interface.h"
+#include "Carpenter/Interfaces/Interaction_Interface.h"
 #include "GameFramework/Actor.h"
 #include "ColorTable.generated.h"
 

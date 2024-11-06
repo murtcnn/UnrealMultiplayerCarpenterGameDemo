@@ -4,7 +4,7 @@
 #include "MyPlayerController.h"
 
 #include "MyGameState.h"
-#include "Workshop_Interface.h"
+#include "Carpenter/Interfaces/Workshop_Interface.h"
 
 void AMyPlayerController::BeginPlay()
 {

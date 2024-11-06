@@ -4,9 +4,9 @@
 
 #include "CoreMinimal.h"
 #include "Furniture.h"
-#include "MyPlayerController.h"
+#include "Carpenter/GameMode/MyPlayerController.h"
 #include "GameFramework/Actor.h"
-#include "Workshop_Interface.h"
+#include "Carpenter/Interfaces/Workshop_Interface.h"
 #include "Components/SphereComponent.h"
 #include "Workshop.generated.h"
 

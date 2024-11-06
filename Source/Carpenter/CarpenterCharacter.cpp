@@ -10,7 +10,7 @@
 #include "EnhancedInputComponent.h"
 #include "EnhancedInputSubsystems.h"
 #include "InputActionValue.h"
-#include "Interaction_Interface.h"
+#include "Carpenter/Interfaces/Interaction_Interface.h"
 #include "Kismet/KismetSystemLibrary.h"
 #include "Misc/TextFilterExpressionEvaluator.h"
 

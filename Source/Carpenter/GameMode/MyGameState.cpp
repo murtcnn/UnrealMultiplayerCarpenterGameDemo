@@ -3,14 +3,12 @@
 
 #include "MyGameState.h"
 
-#include "Furniture.h"
+#include "Carpenter/Interactables/Furniture.h"
 #include "MyHUD.h"
 #include "MyPlayerController.h"
-#include "Kismet/KismetMathLibrary.h"
-#include "Kismet/KismetSystemLibrary.h"
 #include "Net/UnrealNetwork.h"
-#include "Public/FurniturePropertiesStruct.h"
-#include "Public/OrderUI.h"
+#include "Carpenter/Structs/FurniturePropertiesStruct.h"
+#include "Carpenter/UI/OrderUI.h"
 
 AMyGameState::AMyGameState()
 {

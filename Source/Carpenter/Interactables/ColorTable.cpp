@@ -4,7 +4,7 @@
 #include "ColorTable.h"
 
 #include "Furniture.h"
-#include "MyGameState.h"
+#include "Carpenter/GameMode/MyGameState.h"
 #include "Components/SphereComponent.h"
 
 // Sets default values
